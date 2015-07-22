@@ -1,4 +1,4 @@
 #[no_mangle]
-pub extern fn plus(a: f32, b: f32) -> f32 {
+pub extern fn plus(a: f64, b: f64) -> f64 {
     return a + b;
 }
