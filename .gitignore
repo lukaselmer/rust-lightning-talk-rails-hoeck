@@ -1,4 +1,6 @@
-ust
+.idea
+
+# Rust
 
 # Compiled files
 *.o
